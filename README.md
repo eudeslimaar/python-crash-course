@@ -12,4 +12,8 @@ This repository contains my records and solutions to the challenges presented in
 
 ### Chapter two:
 
-1. [name.py(p.20)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/name.py)
+
+1. [simple_message.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_message.py)
+2. [simple_messages.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_messages.py)
+3. [name.py(p.20)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/name.py)
+4. [apostrophe.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/apostrophe.py)
