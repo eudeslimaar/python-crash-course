@@ -29,8 +29,8 @@ This repository contains my records and solutions to the challenges presented in
 
 ### Chapter three:
 
-[names.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/names.py)
-[bicycles.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/biclycles.py)
-[greetings.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/geetings.py)
-[you_own_list.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/you_own_list.py)
-[motorcycle.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/motorcycle.py)
+1. [names.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/names.py)
+2. [bicycles.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/biclycles.py)
+3. [greetings.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/geetings.py)
+4. [you_own_list.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/you_own_list.py)
+5. [motorcycle.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/motorcycle.py)
