@@ -12,8 +12,25 @@ This repository contains my records and solutions to the challenges presented in
 
 ### Chapter two:
 
+01. [simple_message.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_message.py)
+02. [simple_messages.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_messages.py)
+03. [name.py(p.20)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/name.py)
+04. [apostrophe.py(p.24)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/apostrophe.py)
+05. [personal_message.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/personal_message.py)
+06. [name_cases.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/name_cases.py)
+07. [famous_quote.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/famous_quote.py)
+08. [famous_quote_2.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/famous_quote_2.py)
+09. [stripping_names.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/stripping_names.py)
+10. [file_extensions.py(p.25)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/file_extensions.py)
+11. [number_eight.py(p.28)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/number_eight.py)
+12. [favourite_number.py(p.28)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/favourite_number.py)
+13. [comment.py(p.29)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/comment.py)
+14. [zen_python.py(p.30)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/zen_python.py)
 
-1. [simple_message.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_message.py)
-2. [simple_messages.py(p.19)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/simple_messages.py)
-3. [name.py(p.20)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/name.py)
-4. [apostrophe.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_two/apostrophe.py)
+### Chapter tree:
+
+[names.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/names.py)
+[bicycles.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/biclycles.py)
+[greetings.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/geetings.py)
+[you_own_list.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/you_own_list.py)
+[motorcycle.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/motorcycle.py)
