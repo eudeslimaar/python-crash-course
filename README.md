@@ -27,7 +27,7 @@ This repository contains my records and solutions to the challenges presented in
 13. [comment.py(p.29)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/comment.py)
 14. [zen_python.py(p.30)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_2/zen_python.py)
 
-### Chapter tree:
+### Chapter three:
 
 [names.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/names.py)
 [bicycles.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/biclycles.py)
