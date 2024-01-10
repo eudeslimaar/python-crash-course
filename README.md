@@ -34,3 +34,8 @@ This repository contains my records and solutions to the challenges presented in
 3. [greetings.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/geetings.py)
 4. [you_own_list.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/you_own_list.py)
 5. [motorcycle.py(p.36)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/motorcycle.py)
+6. [guest_list.py(p.41)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/guest_list.py)
+7. [changing_guest_list.py(p.42)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/changing_guest_list.py)
+8. [more_guests.py(p.42)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/more_guests.py)
+9. [shrinking_guest_list.py(p.42)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_3/shrinking_guest_list.py)
+
