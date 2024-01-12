@@ -43,3 +43,11 @@ This repository contains my records and solutions to the challenges presented in
 
 ### Chapter four: Working with Lists
 
+01. [magicians.py(pg.50)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/magicians.py)
+02. [hello_world.py(p.54)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/hello_world.py)
+03. [pizzas.pyp.py(p.56)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/pizzas.py)
+04. [animals.py(p.56)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/animals.py)
+05. [first_numbers.py(p.57)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/first_numbers.py)
+06. [even_numbers.py(p.58)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/even_numbers.py)
+07. [square_numbers.py(p.58)](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_4/square_numbers.py)
+
