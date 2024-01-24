@@ -2,3 +2,5 @@
 2. [toppings.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/toppings.py)
 3. [magic_number.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/magic_number.py)
 4. [banned_users.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/banned_users.py)
+5. [conditional_tests.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/conditional_tests.py)
+6. [more_conditional_tests.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/more_conditional_tests.py)
