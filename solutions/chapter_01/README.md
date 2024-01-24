@@ -1,0 +1,1 @@
+1. [hello_world.py](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_01/hello_world.py)
