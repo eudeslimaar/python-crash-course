@@ -38,7 +38,7 @@ def create_links(directory, owner, repository):
                 for file, _ in files_with_dates:
                     file_path = os.path.join(subdirectory_path, file)
                     url_path = f"https://github.com/{owner}/{repository}/tree/main/{file_path.replace(os.sep, '/')}"
-                    file_link = f"{count}. [{file}]({url_path})"
+                    file_link = f"{count}. [{file.replace(".py", "")}]({url_path})"
                     links.append(file_link)
 
                     count += 1
@@ -48,8 +48,8 @@ def create_links(directory, owner, repository):
 
                 print(f"README.md file created in {subdirectory_path}")
 
-                main_readme += (f"- https://github.com/{owner}/{repository}/tree/main/{directory}/"
-                                f"{os.path.relpath(subdirectory_path, directory).replace(os.sep, '/')}\n")
+                main_readme += (f"- [{os.path.relpath(subdirectory_path, directory).title().replace("_", " ")}](https://github.com/{owner}/{repository}/tree/main/{directory}/"
+                                f"{os.path.relpath(subdirectory_path, directory).replace(os.sep, '/')})\n")
 
     main_readme_path = os.path.join('./', 'README.md')
     with open(main_readme_path, 'w', encoding='utf-8') as main_readme_file:
