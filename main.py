@@ -55,7 +55,7 @@ def create_links(directory, owner, repository):
     with open(main_readme_path, 'w', encoding='utf-8') as main_readme_file:
         main_readme_file.write(main_readme)
 
-    print(f"Main README.md file created!")
+    print(f"Main README.md file updated!")
 
 
 create_links('solutions', 'eudeslimaar', 'python-crash-course')
