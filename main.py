@@ -48,7 +48,7 @@ def create_links(directory, owner, repository):
 
                 print(f"README.md file created in {subdirectory_path}")
 
-                main_readme += (f"- https://github.com/{owner}/{repository}/tree/main/"
+                main_readme += (f"- https://github.com/{owner}/{repository}/tree/main/{directory}/"
                                 f"{os.path.relpath(subdirectory_path, directory).replace(os.sep, '/')}\n")
 
     main_readme_path = os.path.join('./', 'README.md')
