@@ -13,3 +13,4 @@
 13. [alien_colors_03_v1](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/alien_colors_03_v1.py)
 14. [alien_colors_03_v2](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/alien_colors_03_v2.py)
 15. [alien_colors_03_v3](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/alien_colors_03_v3.py)
+16. [stages_of_life](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/stages_of_life.py)
