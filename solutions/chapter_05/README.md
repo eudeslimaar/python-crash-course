@@ -14,3 +14,7 @@
 14. [alien_colors_03_v2](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/alien_colors_03_v2.py)
 15. [alien_colors_03_v3](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/alien_colors_03_v3.py)
 16. [stages_of_life](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/stages_of_life.py)
+17. [favourite_fruit](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/favourite_fruit.py)
+18. [hello_admin](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/hello_admin.py)
+19. [checking_usernames](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/checking_usernames.py)
+20. [ordinal_numbers](https://github.com/eudeslimaar/python-crash-course/tree/main/solutions/chapter_05/ordinal_numbers.py)
